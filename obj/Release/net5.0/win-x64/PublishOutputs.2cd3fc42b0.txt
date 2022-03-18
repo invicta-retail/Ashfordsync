@@ -1,0 +1,3 @@
+C:\Users\raulf\source\repos\AshfordSync\bin\Release\net5.0\publish\AshfordSync.pdb
+C:\Users\raulf\source\repos\AshfordSync\bin\Release\net5.0\publish\sni.dll
+C:\Users\raulf\source\repos\AshfordSync\bin\Release\net5.0\publish\AshfordSync.exe
